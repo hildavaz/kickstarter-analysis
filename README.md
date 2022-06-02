@@ -20,6 +20,8 @@ Is the length of a campaign correlated with its success? As the results for the 
     #### **Analysis Outcomes Based on Launch Date for Theater**
     
    As show the following table and chart results when we filtered by the “Theater” subcategory, the month that launched the most successful Kickstarter campaigns was May and June both has the and both had roughly the same number of failed campaigns launched.
+   
+   ![this an image] (https://github.com/hildavaz/kickstarter-analysis/blob/main/Outcomes_vs_Goal.png
     
     
 
