@@ -21,12 +21,14 @@ Is the length of a campaign correlated with its success? As the results for the 
     
    As show the following table and chart results when we filtered by the “Theater” subcategory, the month that launched the most successful Kickstarter campaigns was May and June both has the and both had roughly the same number of failed campaigns launched.
    
-  ![this is an image] (https://github.com/hildavaz/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+  ![this is an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
    
     ###**Outcomes based on Goals**
 Plays subcategory successful campaigns based on Goals indicates that the goals range is not an issue since there are high percentage of successful goals for the lower rages as there is also a high percentage if successful ones of the mid/higher rages.  Also, most of the lower goals were pledged more than the gold amount.
 
  ![this is an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Outcomes_vs_Goal.png)
+ 
+    Kickstart rage of goals seem not to be an issue, running these campaigns need to be run for shorter period of times and run this campaigns during the most successful months.
     
 
 
