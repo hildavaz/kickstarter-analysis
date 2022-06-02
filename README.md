@@ -8,7 +8,7 @@ How different campaingns fared in relation to their lauch dates and their fundin
 Look at the data and defined what type of data is getting used for this analysis and update the data by sorting, filtering, condititonal formatting.
 I have broken down the category/subcategeory into a parent category and a subcategory, therfore I can make this analysis more deatil and based on the parent category for all countries. There are over 4,000 Kickstarter campaings, the countries with most of the campaings are the US with 3038 and Great Britain with 604. As the chart demonstrates below; theather, music and film&video had great outcomes for sucessfull campaings.  However, the theater parent category is the most successfull.
 
-![this an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Pivot%20Table%20Parent%20Category%20Oucomes.PNG)
+![this is an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Pivot%20Table%20Parent%20Category%20Oucomes.PNG)
 ![this is an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
 ### **Analysis Outcomes Based on Launch Date**
@@ -21,8 +21,12 @@ Is the length of a campaign correlated with its success? As the results for the 
     
    As show the following table and chart results when we filtered by the “Theater” subcategory, the month that launched the most successful Kickstarter campaigns was May and June both has the and both had roughly the same number of failed campaigns launched.
    
-   ![this an image] (https://github.com/hildavaz/kickstarter-analysis/blob/main/Outcomes_vs_Goal.png
-    
+   ![this is an image](https://github.com/hildavaz/kickstarter-analysis/blob/main/Outcomes_vs_Goal.png)
+   
+    ###**Outcomes based on Goals**
+Plays subcategory successful campaigns based on Goals indicates that the goals range is not an issue since there are high percentage of successful goals for the lower rages as there is also a high percentage if successful ones of the mid/higher rages.  Also, most of the lower goals were pledged more than the gold amount.
+
+
     
 
 
